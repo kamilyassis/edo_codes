@@ -1,8 +1,8 @@
 import re
 import vizu 
 import inspect
-import RK4 as RK4
-import euler as euler
+import RK4
+import euler
 
 def funcao(func):
     code = inspect.getsource(func)

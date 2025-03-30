@@ -18,12 +18,18 @@ Este repositório contém implementações dos seguintes métodos:
 == Runge Kutta ==
 - 2º Ordem [em implementação]
 - 4º Ordem
-  
+
+== Adams-Bashforth-Moulton ==
+- Uma EDO
+- Duas EDOs (sistema)
+
 ---
 
-
 ### Resultado Esperado para Euler simples + RK4
-![Resultados](imgs/resultado.png)
+![Resultados](imgs/euler_rk4.png)
+
+### Resultado Esperado para ABM simples + sistema
+![Resultados](imgs/ABM.png)
 
 ---
 
