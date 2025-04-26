@@ -23,6 +23,11 @@ Este repositório contém implementações dos seguintes métodos:
 - Uma EDO
 - Duas EDOs (sistema)
 
+== Métodos de Contorno para um PVC ==
+- Dirichlet [a generalizar]
+- Robin [a refinar]
+- Newman [a refinar]
+
 ---
 
 ### Resultado Esperado para Euler simples + RK4
@@ -30,6 +35,11 @@ Este repositório contém implementações dos seguintes métodos:
 
 ### Resultado Esperado para ABM simples + sistema
 ![Resultados](imgs/ABM.png)
+
+### Resultados esperados para os Métodos de Contorno [a refinar]
+![Resultado_DF](imgs/resultado_DF.png)
+![Resultado_R](imgs/resultado_R.png)
+![Resultado_N](imgs/resultado_N.png)
 
 ---
 
